@@ -20,7 +20,7 @@ a {
 }
 
 .container {
-    height: 95vh;
+    min-height: 95vh;
     width: 100vw;
     display: grid;
     place-items: center;
